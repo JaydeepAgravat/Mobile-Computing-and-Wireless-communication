@@ -222,21 +222,21 @@ where \(f\) is the frequency of the wave.
 
 In summary, peak amplitude is the maximum value of a wave, frequency is the number of cycles per second, and period is the time it takes to complete one full cycle.
 
-## 8. Compare Local Area Networks (LAN) and Wide Area Networks (WAN)
+## 8. Compare LAN, MAN and WAN
 
-| Feature                           | Local Area Network (LAN)                       | Wide Area Network (WAN)                        |
-| --------------------------------- | --------------------------------------------- | --------------------------------------------- |
-| **Scope**                         | Limited geographical area, such as a single building or campus. | Spans a large geographical area, often across cities or countries. |
-| **Connection Distance**           | Short distances, typically within a few kilometers. | Long distances, can span across cities, countries, or even continents. |
-| **Data Transfer Speed**           | Higher data transfer speeds. | Data transfer speeds can vary, often slower than LAN due to longer distances and diverse network technologies. |
-| **Ownership and Control**         | Owned and controlled by a single organization or entity. | Network infrastructure may be owned by multiple entities or a third-party service provider. |
-| **Cost**                          | Generally lower installation and maintenance costs. | Installation and maintenance costs can be higher due to long-distance communication infrastructure. |
-| **Topology**                      | Common topologies include bus, ring, and star. | Topology can vary and might include a combination of different technologies such as point-to-point links or MPLS networks. |
-| **Reliability**                   | Higher reliability due to shorter cable lengths and simpler network structures. | Reliability can be affected by the complexity of the network, longer distances, and dependence on external providers. |
-| **Examples of Technologies**      | Ethernet, Wi-Fi, Token Ring. | MPLS, Frame Relay, leased lines, satellite links. |
-| **Examples of Use Cases**         | Local office networks, school campuses. | Connecting branch offices, connecting data centers, global corporate networks. |
-| **Latency**                       | Lower latency due to shorter distances. | Higher latency due to longer distances and the involvement of various network components. |
-| **Scalability**                   | Easier to scale within a confined area. | Scaling can be more complex and may involve coordination with multiple service providers. |
+| Feature                           | Local Area Network (LAN)                       | Metropolitan Area Network (MAN)                | Wide Area Network (WAN)                        |
+| --------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| **Scope**                         | Limited geographical area, such as a single building or campus. | Covers a larger geographic area than a LAN but smaller than a WAN, typically a city. | Spans a large geographical area, often across cities, countries, or continents. |
+| **Connection Distance**           | Short distances, typically within a few kilometers. | Longer distances, often within a city or a large campus. | Long distances, can span across cities, countries, or even continents. |
+| **Data Transfer Speed**           | Higher data transfer speeds. | Data transfer speeds can vary, typically faster than WAN but slower than LAN. | Data transfer speeds can vary, often slower than LAN due to longer distances and diverse network technologies. |
+| **Ownership and Control**         | Owned and controlled by a single organization or entity. | May be owned by multiple entities, including service providers. | Network infrastructure may be owned by multiple entities or a third-party service provider. |
+| **Cost**                          | Generally lower installation and maintenance costs. | Installation and maintenance costs can vary depending on the scale and technology used. | Installation and maintenance costs can be higher due to long-distance communication infrastructure. |
+| **Topology**                      | Common topologies include bus, ring, and star. | Topology can vary and might include a combination of different technologies such as point-to-point links or MPLS networks. | Topology can vary, often involving a mix of technologies such as leased lines, satellites, and fiber optics. |
+| **Reliability**                   | Higher reliability due to shorter cable lengths and simpler network structures. | Reliability can vary, influenced by the complexity of the network and the use of diverse technologies. | Reliability can be affected by the complexity of the network, longer distances, and dependence on external providers. |
+| **Examples of Technologies**      | Ethernet, Wi-Fi, Token Ring. | Fiber-optic links, WiMAX, MPLS. | MPLS, Frame Relay, leased lines, satellite links. |
+| **Examples of Use Cases**         | Local office networks, school campuses. | Connecting various local networks within a city. | Connecting branch offices, connecting data centers, global corporate networks. |
+| **Latency**                       | Lower latency due to shorter distances. | Latency can vary but generally lower than WAN. | Higher latency due to longer distances and the involvement of various network components. |
+| **Scalability**                   | Easier to scale within a confined area. | Scaling can be more complex, especially when coordinating with multiple service providers. | Scaling can be challenging, often requiring coordination with multiple service providers. |
 
 ## 9. Define noise and discuss the types of noise, along with its effect on transmission signals
 
