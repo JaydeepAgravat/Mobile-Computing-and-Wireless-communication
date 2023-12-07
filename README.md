@@ -60,3 +60,9 @@
 4. Explain each layer of the Bluetooth Protocol Stack.
 5. State the applications of Bluetooth and differentiate between Piconet and Scatternet with a neat diagram.
 6. List the functionality of the Service Discovery Protocol (SDP).
+
+## UNIT-6
+
+1. Define and explain various Android Layouts
+2. Draw and explain Android Architecture
+3. Define Android Activity and Write Android Activity Life cycle
