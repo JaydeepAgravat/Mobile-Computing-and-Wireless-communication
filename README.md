@@ -28,3 +28,35 @@
 12. Describe Error Control Coding in brief
 13. How is Error Control implemented using the Automatic Repeat Request (ARQ) mechanism
 14. Enlist and explain Error detection methods in cellular wireless network
+
+## UNIT-3
+
+1. Draw and explain GSM architecture.
+2. Show the use of below GSM Identifiers.
+   i) IMEI ii) IMSI iii) MSISDN iv) MSRN
+3. Illustrate different scenarios of Roaming and Handoff in GSM with proper Examples. OR Explain GSM call routing.
+4. Compare GSM and CDMA technology.
+5. Explain the functional architecture of the GSM system and types of services provided by GSM.
+6. Explain the handover process in the cellular system.
+7. Explain the purpose of the Home Location Register (HLR). List the information stored in the Home Location Register (HLR).
+8. Explain Addresses and Identifiers used in GSM with Example.
+9. Discuss the network elements in GPRS that are different from GSM. Also, discuss applications and limitations of GPRS.
+10. Draw and explain the GPRS transmission plane protocol model.
+11. List and explain the functionality of Serving GPRS Support Node (SGSN) and Gateway GPRS Support Node (GGSN).
+12. Explain Voice and Data Routing in GPRS with a proper diagram.
+13. Discuss briefly: Limitations of GPRS.
+14. How billing and charging functions are handled in GPRS?
+
+## UNIT-4
+
+1. Draw and explain IEEE 802.11 Architecture and its Services
+2. Compare Wi fi and Wi Max
+
+## UNIT-5
+
+1. Draw and explain Bluetooth Protocol Architecture.
+2. Explain the L2CAP protocol of Bluetooth.
+3. Explain the power-saving states of a Bluetooth device.
+4. Explain each layer of the Bluetooth Protocol Stack.
+5. State the applications of Bluetooth and differentiate between Piconet and Scatternet with a neat diagram.
+6. List the functionality of the Service Discovery Protocol (SDP).
